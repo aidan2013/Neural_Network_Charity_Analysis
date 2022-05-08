@@ -34,7 +34,6 @@ application_df.head()
 
 ### Compiling, Training, and Evaluating the Model
 
-How many neurons, layers, and activation functions did you select for your neural network model, and why?
 The neural network model has two hidden layers. The first hidden layer has 80 neurons with a rulu function.
 The second hidden layer consists of 30 neurons and a relu function. The output uses the sigmoid function with 1 neuron.
 
